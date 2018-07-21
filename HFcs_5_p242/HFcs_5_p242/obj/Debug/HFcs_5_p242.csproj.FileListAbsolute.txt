@@ -1,0 +1,9 @@
+E:\HeadFirstC#_projects\HFcs_5_p242\HFcs_5_p242\bin\Debug\HFcs_5_p242.exe.config
+E:\HeadFirstC#_projects\HFcs_5_p242\HFcs_5_p242\bin\Debug\HFcs_5_p242.exe
+E:\HeadFirstC#_projects\HFcs_5_p242\HFcs_5_p242\bin\Debug\HFcs_5_p242.pdb
+E:\HeadFirstC#_projects\HFcs_5_p242\HFcs_5_p242\obj\Debug\HFcs_5_p242.csprojResolveAssemblyReference.cache
+E:\HeadFirstC#_projects\HFcs_5_p242\HFcs_5_p242\obj\Debug\HFcs_5_p242.Form1.resources
+E:\HeadFirstC#_projects\HFcs_5_p242\HFcs_5_p242\obj\Debug\HFcs_5_p242.Properties.Resources.resources
+E:\HeadFirstC#_projects\HFcs_5_p242\HFcs_5_p242\obj\Debug\HFcs_5_p242.csproj.GenerateResource.Cache
+E:\HeadFirstC#_projects\HFcs_5_p242\HFcs_5_p242\obj\Debug\HFcs_5_p242.exe
+E:\HeadFirstC#_projects\HFcs_5_p242\HFcs_5_p242\obj\Debug\HFcs_5_p242.pdb

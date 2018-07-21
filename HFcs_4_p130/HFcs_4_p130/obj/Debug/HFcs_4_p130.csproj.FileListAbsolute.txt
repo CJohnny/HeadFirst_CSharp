@@ -1,0 +1,10 @@
+E:\HeadFirstC#_projects\HFcs_4_p130\HFcs_4_p130\bin\Debug\HFcs_4_p130.exe.config
+E:\HeadFirstC#_projects\HFcs_4_p130\HFcs_4_p130\obj\Debug\HFcs_4_p130.csprojResolveAssemblyReference.cache
+E:\HeadFirstC#_projects\HFcs_4_p130\HFcs_4_p130\obj\Debug\HFcs_4_p130.Form1.resources
+E:\HeadFirstC#_projects\HFcs_4_p130\HFcs_4_p130\obj\Debug\HFcs_4_p130.Properties.Resources.resources
+E:\HeadFirstC#_projects\HFcs_4_p130\HFcs_4_p130\obj\Debug\HFcs_4_p130.csproj.GenerateResource.Cache
+E:\HeadFirstC#_projects\HFcs_4_p130\HFcs_4_p130\bin\Debug\HFcs_4_p130.exe
+E:\HeadFirstC#_projects\HFcs_4_p130\HFcs_4_p130\bin\Debug\HFcs_4_p130.pdb
+E:\HeadFirstC#_projects\HFcs_4_p130\HFcs_4_p130\obj\Debug\HFcs_4_p130.exe
+E:\HeadFirstC#_projects\HFcs_4_p130\HFcs_4_p130\obj\Debug\HFcs_4_p130.pdb
+E:\HeadFirstC#_projects\HFcs_4_p130\HFcs_4_p130\obj\Debug\HFcs_4_p130.exe.licenses

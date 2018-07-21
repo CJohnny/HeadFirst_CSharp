@@ -1,0 +1,9 @@
+E:\HeadFirstC#_projects\HFcs_4_p186\HFcs_4_p186\bin\Debug\HFcs_4_p186.exe.config
+E:\HeadFirstC#_projects\HFcs_4_p186\HFcs_4_p186\bin\Debug\HFcs_4_p186.exe
+E:\HeadFirstC#_projects\HFcs_4_p186\HFcs_4_p186\bin\Debug\HFcs_4_p186.pdb
+E:\HeadFirstC#_projects\HFcs_4_p186\HFcs_4_p186\obj\Debug\HFcs_4_p186.csprojResolveAssemblyReference.cache
+E:\HeadFirstC#_projects\HFcs_4_p186\HFcs_4_p186\obj\Debug\HFcs_4_p186.Form1.resources
+E:\HeadFirstC#_projects\HFcs_4_p186\HFcs_4_p186\obj\Debug\HFcs_4_p186.Properties.Resources.resources
+E:\HeadFirstC#_projects\HFcs_4_p186\HFcs_4_p186\obj\Debug\HFcs_4_p186.csproj.GenerateResource.Cache
+E:\HeadFirstC#_projects\HFcs_4_p186\HFcs_4_p186\obj\Debug\HFcs_4_p186.exe
+E:\HeadFirstC#_projects\HFcs_4_p186\HFcs_4_p186\obj\Debug\HFcs_4_p186.pdb
